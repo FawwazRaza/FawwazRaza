@@ -1,10 +1,14 @@
+
+
+
+
 # Hello, I'm Fawwaz Raza 👋
 
 ## About Me
-I'm a Computer Science student at FAST NUCES Lahore with a passion for software development, web technologies, and artificial intelligence. My goal is to contribute to innovative projects and collaborate with like-minded developers.
+I'm a Computer Science student at FAST NUCES Lahore, passionate about software development, web technologies, and artificial intelligence. As a Software Developer, Web Developer, and AI/ML enthusiast, my goal is to contribute to innovative projects and collaborate with like-minded developers.
 
 ## 🔭 Current Focus
-- Pursuing a BS in Computer Science
+- Pursuing a BS in Computer Science at FAST NUCES Lahore
 - Expanding my knowledge in AI and Machine Learning
 - Seeking opportunities to contribute to open-source projects
 
@@ -40,17 +44,6 @@ I'm a state bank of varieties! Always eager to learn and explore new technologie
 
 Let's connect and build something amazing together!
 
-<a href="https://github.com/FawwazRaza/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FawwazRaza&rank_icon=percentile" />
-</a>
-
-
-
-
-# 💫 About Me:
-# Hello, I'm [Your Name] 👋<br><br>## About Me<br>I'm a Computer Science student at FAST NUCES Lahore with a passion for software development, web technologies, and artificial intelligence. My goal is to contribute to innovative projects and collaborate with like-minded developers.<br><br>## 🔭 Current Focus<br>- Pursuing a BS in Computer Science<br>- Expanding my knowledge in AI and Machine Learning<br>- Seeking opportunities to contribute to open-source projects<br><br>## 💻 Tech Stack<br>- Languages: C++, C, C#, Python, JavaScript<br>- Web Technologies: HTML, CSS, React.js<br>- Databases: SQL, MySQL<br>- Frameworks: ASP.NET<br>- Version Control: Git, GitHub<br><br>## 🌱 I'm currently learning<br>- Advanced AI and Machine Learning concepts<br>- [Any other specific technologies or frameworks you're currently studying]<br><br>## 👯 I'm looking to collaborate on<br>- Software development projects<br>- Web applications<br>- AI and ML initiatives<br>- Open-source contributions<br><br>## 💬 Ask me about<br>- Programming<br>- Web Development<br>- AI and Machine Learning<br>- Software Engineering best practices<br><br>## 📫 How to reach me<br>- [Your professional email]<br>- [LinkedIn profile]<br>- [Twitter handle]<br><br>## 🚀 Fun fact<br>I'm a state bank of varieties! Always eager to learn and explore new technologies.<br><br>Let's connect and build something amazing together!
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fawwazraza) 
 
@@ -63,6 +56,11 @@ Let's connect and build something amazing together!
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+
+<a href="https://github.com/FawwazRaza/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FawwazRaza&rank_icon=percentile" />
+</a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FawwazRaza&limit=5&theme=default&combine_all_yearly_contributions=true)
