@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/FawwazRaza/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FawwazRaza&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href="https://github.com/FawwazRaza/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=github-readme-stats" />
+<a href="https://github.com/FawwazRaza/magnum-opsem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=magnum-opsem" />
 </a>
-<a href="https://github.com/FawwazRaza/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=convoychat" />
+<a href="https://github.com/FawwazRaza/magnum-opsem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=magnum-opsem" />
 </a>
