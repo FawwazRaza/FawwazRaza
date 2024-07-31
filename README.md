@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/FawwazRaza/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FawwazRaza" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FawwazRaza&rank_icon=percentile" />
 </a>
 <a href="https://github.com/FawwazRaza/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FawwazRaza&layout=compact&langs_count=8&card_width=320&rank_icon=percentile" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FawwazRaza&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/FawwazRaza/magnum-opsem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=magnum-opsem" />
