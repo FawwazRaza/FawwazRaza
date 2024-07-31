@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![FawwazRaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=FawwazRaza)](https://github.com/FawwazRaza/github-readme-stats)
 
-[![FawwazRaza Card](https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=github-readme-stats)](https://github.com/FawwazRaza/github-readme-stats)
+[![FawwazRaza Card](https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=magnum-opsem)](https://github.com/FawwazRaza/magnum-opsem)
