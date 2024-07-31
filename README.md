@@ -54,8 +54,8 @@ I'm a Computer Science student at FAST NUCES Lahore, passionate about software d
   <a href="https://github.com/FawwazRaza/magnum-opsem">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=magnum-opsem" />
   </a>
-  <a href="https://github.com/FawwazRaza/DEP-projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=DEP-projects" />
+  <a href="https://github.com/FawwazRaza/AI-projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=AI-projects" />
   </a>
 </p>
 
