@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/FawwazRaza/magnum-opsem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=magnum-opsem" />
 </a>
-<a href="https://github.com/FawwazRaza/magnum-opsem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=magnum-opsem" />
+<a href="https://github.com/FawwazRaza/DEP-projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=DEP-projects" />
 </a>
