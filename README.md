@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FawwazRaza&layout=donut)](https://github.com/FawwazRaza/github-readme-stats)
 
 
-[![FawwazRaza's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FawwazRazalayout=compact)](https://github.com/FawwazRaza/github-readme-stats)
+[![FawwazRaza's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FawwazRaza&layout=compact)](https://github.com/FawwazRaza/github-readme-stats)
