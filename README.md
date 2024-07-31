@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FawwazRaza" />
 </a>
 <a href="https://github.com/FawwazRaza/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FawwazRaza&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FawwazRaza&layout=compact&langs_count=8&card_width=320&rank_icon=percentile" />
 </a>
 <a href="https://github.com/FawwazRaza/magnum-opsem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=magnum-opsem" />
