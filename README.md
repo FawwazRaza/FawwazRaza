@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![FawwazRaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=FawwazRaza)](https://github.com/FawwazRaza/github-readme-stats)
-
-[![FawwazRaza Card](https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=magnum-opsem)](https://github.com/FawwazRaza/magnum-opsem)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FawwazRaza&layout=donut)](https://github.com/FawwazRaza/github-readme-stats)
-
-
-[![FawwazRaza's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FawwazRaza)](https://github.com/FawwazRaza/github-readme-stats)
+<a href="https://github.com/FawwazRaza/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=FawwazRaza" />
+</a>
+<a href="https://github.com/FawwazRaza/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FawwazRaza&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/FawwazRaza/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/FawwazRaza/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=convoychat" />
+</a>
