@@ -59,11 +59,6 @@ I'm a Computer Science student at FAST NUCES Lahore, passionate about software d
   </a>
 </p>
 
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
-
 ## 🚀 Fun fact
 I'm a state bank of varieties! Always eager to learn and explore new technologies.
 
