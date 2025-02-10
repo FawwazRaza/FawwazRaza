@@ -47,7 +47,7 @@ I'm a Computer Science student at FAST NUCES Lahore, passionate about software d
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=FawwazRaza&limit=5&theme=default&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
+</p> 
 
 ## 🚀 Featured Projects
 <p align="center">
