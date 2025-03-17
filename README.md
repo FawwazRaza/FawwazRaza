@@ -35,7 +35,7 @@ I'm a Computer Science student at FAST NUCES Lahore, passionate about software d
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FawwazRaza&theme=default&hide_border=false&rank_icon=percentile" alt="Fawwaz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FawwazRaza&theme=default&hide_border=false&rank_icon=percentile&cache_seconds=1800" alt="Fawwaz's GitHub stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FawwazRaza&theme=default&hide_border=false" alt="Fawwaz's GitHub streak" />
