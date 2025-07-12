@@ -78,6 +78,14 @@ National University of Computer and Emerging Sciences (FAST NUCES)
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FawwazRaza&theme=default&hide_border=false&rank_icon=percentile&cache_seconds=3600" height="150" alt="Fawwaz's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FawwazRaza&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="Fawwaz's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawwazRaza&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600" height="150" alt="Fawwaz's Top Languages"/>
+</div>
+
 ## <span style="color:#9C27B0">Let's Collaborate</span>
 
 -  Open Source Contributions  
@@ -99,19 +107,6 @@ National University of Computer and Emerging Sciences (FAST NUCES)
 <p align="center">
   <b><i>"Empowering communities with intelligent systems, one line of code at a time."</i></b>
 </p>
-
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FawwazRaza&theme=default&hide_border=false&rank_icon=percentile&cache_seconds=3600" height="150" alt="Fawwaz's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FawwazRaza&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="Fawwaz's GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawwazRaza&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600" height="150" alt="Fawwaz's Top Languages"/>
-</div>
-
-## 🚀 Fun fact
-I'm a state bank of varieties! Always eager to learn and explore new technologies.
-
-Let's connect and build something amazing together!
 
 ---
 
