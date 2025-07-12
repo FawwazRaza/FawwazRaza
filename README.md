@@ -1,33 +1,109 @@
 
-# Hello, I'm Fawwaz Raza 👋
+# 👋 Hello, I'm <span style="color:#1F75FE">Fawwaz Raza</span> — AI Researcher & Engineer
 
-## About Me
-I'm a Computer Science student at FAST NUCES Lahore, passionate about software development, web technologies, and artificial intelligence. As a Software Developer, Web Developer, and AI/ML enthusiast, my goal is to contribute to innovative projects and collaborate with like-minded developers.
+<p align="left">
+  <a href="https://www.linkedin.com/in/fawwazraza/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fawwazraza2024@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://fawwazraza.github.io/fawwazraza-portfolio/"><img src="https://img.shields.io/badge/website-%234285F4.svg?&style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://github.com/FawwazRaza"><img src="https://img.shields.io/github/followers/FawwazRaza?label=GitHub&style=flat-square&logo=github"/></a>
+</p>
 
-## 🔭 Current Focus
-- Pursuing a BS in Computer Science at FAST NUCES Lahore
-- Expanding my knowledge in AI and Machine Learning
-- Seeking opportunities to contribute to open-source projects
+---
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🌟 <span style="color:#FFA500">About Me</span>
 
-## 🌱 I'm currently learning
-- Advanced AI and Machine Learning concepts
-- Data Science and Big Data technologies
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+I'm a passionate Computer Science student at FAST NUCES Lahore with a deep interest in AI, Machine Learning, and full-stack development. I love transforming complex ideas into real-world applications using modern technologies. I'm especially focused on RAG, multi-agent systems, and building intelligent tools that simplify lives.
 
-## 👯 I'm looking to collaborate on
-- Software development projects
-- Web applications
-- AI and ML initiatives
-- Open-source contributions
+---
 
-## 💬 Ask me about
-- Programming
-- Web Development
-- AI and Machine Learning
-- Software Engineering best practices
+## 🚀 <span style="color:#4CAF50">Skills</span>
+
+### 🧠 AI & Machine Learning  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23009FBD.svg?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![Mistral](https://img.shields.io/badge/Mistral-7B-blueviolet?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-black?style=for-the-badge&logo=openai)
+![Whisper](https://img.shields.io/badge/Whisper-Audio-blue?style=for-the-badge)
+
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🌐 Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8E2EFF?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![ASP.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 📊 Data & Tools  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🎓 <span style="color:#2196F3">Education</span>
+
+**Bachelor of Science in Computer Science**  
+National University of Computer and Emerging Sciences (FAST NUCES), Lahore  
+📅 *September 2022 – September 2026*  
+🎓 *GPA: 3.52*
+
+---
+
+## 🧠 <span style="color:#E91E63">Currently Learning</span>
+
+- Cloud Computing (GCP, AWS basics) ☁️  
+- LLM Agents & Model Context Protocol (MCP) 🤖  
+- Deployment with Docker & CI/CD Pipelines  
+- Vector Search & Hybrid Retrieval  
+- Big Data (Hadoop, PySpark, MapReduce)
+
+---
+
+## 🤝 <span style="color:#9C27B0">Let's Collaborate</span>
+
+- 🛠️ Open Source Contributions  
+- 🧑‍💻 Web App Development  
+- 🔬 AI/ML Research Projects  
+- 📚 RAG & Multi-Agent Chatbot Systems
+
+---
+
+## 📫 <span style="color:#F44336">Contact Me</span>
+
+- 📧 Email: [fawwazraza2024@gmail.com](mailto:fawwazraza2024@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/fawwazraza](https://linkedin.com/in/fawwazraza)  
+- 🌐 Portfolio: [fawwazraza.github.io/fawwazraza-portfolio](https://fawwazraza.github.io/fawwazraza-portfolio/)  
+- 🐙 GitHub: [github.com/FawwazRaza](https://github.com/FawwazRaza)
+
+---
+
+<p align="center">
+  <b><i>"Empowering communities with intelligent systems, one line of code at a time."</i></b>
+</p>
+
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fawwazraza)
