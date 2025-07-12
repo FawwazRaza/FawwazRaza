@@ -101,26 +101,12 @@ National University of Computer and Emerging Sciences (FAST NUCES)
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FawwazRaza&theme=default&hide_border=false&rank_icon=percentile&cache_seconds=1800" alt="Fawwaz's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FawwazRaza&theme=default&hide_border=false" alt="Fawwaz's GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawwazRaza&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Fawwaz's top languages" />
-</p>
 
-
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/FawwazRaza/magnum-opsem">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=magnum-opsem" />
-  </a>
-  <a href="https://github.com/FawwazRaza/AI-projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FawwazRaza&repo=AI-projects" />
-  </a>
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=FawwazRaza&theme=default&hide_border=false&rank_icon=percentile&cache_seconds=3600" height="150" alt="Fawwaz's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FawwazRaza&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="Fawwaz's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawwazRaza&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600" height="150" alt="Fawwaz's Top Languages"/>
+</div>
 
 ## 🚀 Fun fact
 I'm a state bank of varieties! Always eager to learn and explore new technologies.
