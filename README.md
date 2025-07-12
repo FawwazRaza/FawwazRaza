@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm <span style="color:#1F75FE">Fawwaz Raza</span> — AI Researcher & Engineer
+# 👋 Hello, I'm <span style="color:#1F75FE">Fawwaz Raza</span> | AI Researcher & Engineer
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fawwazraza/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -10,16 +10,15 @@
 
 ---
 
-## 🌟 <span style="color:#FFA500">About Me</span>
+## <span style="color:#FFA500">About Me</span>
 
-I'm a passionate Computer Science student at FAST NUCES Lahore with a deep interest in AI, Machine Learning, and full-stack development. I love transforming complex ideas into real-world applications using modern technologies. I'm especially focused on RAG, multi-agent systems, and building intelligent tools that simplify lives.
+I'm a Computer Science student at FAST NUCES with a strong focus on practical software development. I work on projects involving AI, machine learning, and full-stack development, aiming to build tools that are reliable and efficient. I enjoy solving problems through clear thinking and clean code, and I'm especially interested in areas like multi-agent AI systems and Cloud.
 
 ---
 
-## 🚀 <span style="color:#4CAF50">Skills</span>
+## <span style="color:#4CAF50">Skills</span>
 
-### 🧠 AI & Machine Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+### AI & Machine Learning  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -29,7 +28,7 @@ I'm a passionate Computer Science student at FAST NUCES Lahore with a deep inter
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-black?style=for-the-badge&logo=openai)
 ![Whisper](https://img.shields.io/badge/Whisper-Audio-blue?style=for-the-badge)
 
-### 💻 Programming Languages  
+### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,7 +38,7 @@ I'm a passionate Computer Science student at FAST NUCES Lahore with a deep inter
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🌐 Frameworks & Libraries  
+### Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -49,7 +48,7 @@ I'm a passionate Computer Science student at FAST NUCES Lahore with a deep inter
 ![ASP.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 📊 Data & Tools  
+### Data & Tools  
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -63,35 +62,32 @@ I'm a passionate Computer Science student at FAST NUCES Lahore with a deep inter
 
 ---
 
-## 🎓 <span style="color:#2196F3">Education</span>
+## <span style="color:#2196F3">Education</span>
 
 **Bachelor of Science in Computer Science**  
-National University of Computer and Emerging Sciences (FAST NUCES), Lahore  
-📅 *September 2022 – September 2026*  
-🎓 *GPA: 3.52*
+National University of Computer and Emerging Sciences (FAST NUCES)  
+*September 2022 – September 2026*  
 
 ---
 
-## 🧠 <span style="color:#E91E63">Currently Learning</span>
+## <span style="color:#E91E63">Currently Learning</span>
 
 - Cloud Computing (GCP, AWS basics) ☁️  
 - LLM Agents & Model Context Protocol (MCP) 🤖  
-- Deployment with Docker & CI/CD Pipelines  
-- Vector Search & Hybrid Retrieval  
-- Big Data (Hadoop, PySpark, MapReduce)
+- Deployment with Docker & CI/CD Pipelines
 
 ---
 
-## 🤝 <span style="color:#9C27B0">Let's Collaborate</span>
+## <span style="color:#9C27B0">Let's Collaborate</span>
 
-- 🛠️ Open Source Contributions  
-- 🧑‍💻 Web App Development  
-- 🔬 AI/ML Research Projects  
-- 📚 RAG & Multi-Agent Chatbot Systems
+-  Open Source Contributions  
+-  Web App Development  
+-  AI/ML Research Projects  
+-  RAG & Multi-Agent Chatbot Systems
 
 ---
 
-## 📫 <span style="color:#F44336">Contact Me</span>
+## <span style="color:#F44336">Contact Me</span>
 
 - 📧 Email: [fawwazraza2024@gmail.com](mailto:fawwazraza2024@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/fawwazraza](https://linkedin.com/in/fawwazraza)  
