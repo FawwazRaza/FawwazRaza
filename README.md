@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm <span style="color:#1F75FE">Fawwaz Raza</span> | AI Researcher & Engineer
+# 👋 Hello, I'm <span style="color:#1F75FE">Fawwaz Raza</span> | AI & LLM Engineer | RAG & Multi-Agent Systems
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fawwazraza/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
