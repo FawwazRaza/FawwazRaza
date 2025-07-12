@@ -100,11 +100,6 @@ National University of Computer and Emerging Sciences (FAST NUCES)
   <b><i>"Empowering communities with intelligent systems, one line of code at a time."</i></b>
 </p>
 
-
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fawwazraza)
-- Email: fawwazraza2024@gmail.com
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FawwazRaza&theme=default&hide_border=false&rank_icon=percentile&cache_seconds=1800" alt="Fawwaz's GitHub stats" />
