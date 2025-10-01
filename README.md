@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm <span style="color:#1F75FE">Fawwaz Raza</span> | AI & LLM Engineer | RAG & Multi-Agent Systems
+# Hello, I'm <span style="color:#1F75FE">Fawwaz Raza</span> | AI & LLM Engineer | RAG & Multi-Agent Systems
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fawwazraza/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -72,13 +72,13 @@ National University of Computer and Emerging Sciences (FAST NUCES)
 
 ## <span style="color:#E91E63">Currently Learning</span>
 
-- Cloud Computing (GCP, AWS basics) ☁️  
-- LLM Agents & Model Context Protocol (MCP) 🤖  
+- Cloud Computing (GCP, AWS basics) 
+- LLM Agents & Model Context Protocol (MCP)   
 - Deployment with Docker & CI/CD Pipelines
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=FawwazRaza&theme=default&hide_border=false&rank_icon=percentile&cache_seconds=3600" height="150" alt="Fawwaz's GitHub Stats"/>
