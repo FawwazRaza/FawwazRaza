@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm a **Software Engineer** building **production-grade systems** at the intersection of **AI and full-stack development**. I architect complete software solutions—from database design to AI integration—that solve real problems and scale under load.
+I'm a **Software Engineer** building **production-grade systems** at the intersection of **AI and full-stack development**. I architect complete software solutions, from database design to AI integration that solve real problems and scale under load.
 
 ```python
 class FawwazRaza:
