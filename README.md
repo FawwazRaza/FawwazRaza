@@ -101,11 +101,6 @@ class FawwazRaza:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FawwazRaza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FawwazRaza&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=FawwazRaza&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
 </div>
 
