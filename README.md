@@ -19,12 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FawwazRaza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/FawwazRaza?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/FawwazRaza?label=Stars&style=social" alt="GitHub Stars" />
-</p>
-
 </div>
 
 ---
