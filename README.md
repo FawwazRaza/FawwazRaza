@@ -115,11 +115,6 @@ class FawwazRaza:
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FawwazRaza&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
 
 ##  Latest Blog Posts
 
