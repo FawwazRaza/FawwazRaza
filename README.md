@@ -25,25 +25,16 @@
 
 ## About Me
 
-I'm a **Software Engineer** building **production-grade systems** at the intersection of **AI and full-stack development**. I architect complete software solutions, from database design to AI integration that solve real problems and scale under load.
+I'm a **Software Engineer** and a **fresh graduate** from FAST NUCES. I have spent my time in university and internships learning how to build software that is fast, clean, and reliable. I enjoy the logic behind a project, figuring out the best way to move data or the most efficient way to solve a problem.
 
-```python
-class FawwazRaza:
-    def __init__(self):
-        self.role = "Software Engineer"
-        self.education = "BS Computer Science @ FAST NUCES"
-        self.academic_honors = ["4x Dean's List", "CGPA: 3.5/4.0"]
-        
-    def current_work(self):
-        return {
-            " Focus": "Production AI Systems & Full-Stack Architecture",
-            " Stack": ["Python", "Django", "React", "Node.js", "FastAPI"],
-            " AI/ML": ["RAG Systems", "LLMs", "Vector DBs", "Multi-Agent Workflows"]
-        }
-    
-    def life_motto(self):
-        return "Empowering communities with intelligent systems, one line of code at a time."
-```
+I am deeply **interested in algorithms and optimization**. I don't just want my code to work; I want it to be efficient. For example, when working on a voice AI project, I focused on fine-tuning a small 30MB model so it could run instantly on a phone without needing the internet. I enjoy looking at a task and finding a way to make it run faster or use less memory.
+
+I believe that the best software comes from a solid team effort. In my work at different companies, I regularly worked alongside other developers to make sure the backend, frontend, and AI parts all fit together perfectly. **I make sure to write clean code and use clear REST API headers so that my teammates can easily integrate their work with mine.**
+
+Even as a fresh grad, I have worked on projects that handle real-world stress. **I have built parts of large systems, like a multi-tenant school platform and automated business tools that connect to Workday.** Whether I am working on a 4-layer backend or a simple search tool, I follow professional design patterns to keep the code easy to maintain.
+
+**Goal:** To join a top-tier team where I can use my skills in algorithms and system design to build high-quality products.
+
 ---
 
 ##  Tech Stack
